@@ -60,5 +60,7 @@ Growing my skills across Android development, web dev/e-commerce systems, and Py
 <p align="center"><i>Thanks for stopping by — feel free to explore my repos!</i></p>
 
 ---
+<h3 align="left">These are my most used coding langauges</h3>
+
 ![My Top Languages](./lang-chart.svg)
 
