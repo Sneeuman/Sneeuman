@@ -102,7 +102,7 @@ function buildSVG(topLangs, totalBytes) {
     <image href="${iconUrl}" x="8" y="${y + barHeight / 2 - 12}" width="24" height="24" />
     <text x="${chartLeft - 10}" y="${y + barHeight / 2}" text-anchor="end"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
-          font-size="14" fill="#333">${lang}</text>
+          font-size="14" font-weight="700" fill="#2E9EF7">${lang}</text>
     <rect x="${chartLeft}" y="${y}" width="${barWidth}" height="${barHeight}"
           rx="6" fill="${barColor}" />
     <text x="${chartLeft + barWidth + 8}" y="${y + barHeight / 2}"
