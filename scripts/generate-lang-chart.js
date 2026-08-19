@@ -108,7 +108,8 @@ async function buildSVG(topLangs, totalBytes) {
   const topPad = 20;
   const height = topPad * 2 + topLangs.length * (barHeight + gap) - gap;
   const maxBytes = topLangs[0][1];
-  const barColor = "#4f8ef7";
+  const barColor = "#58a2ba";
+  const textColor = "#2e9ef7";
 
   const rowPromises = topLangs.map(async ([lang, bytes], i) => {
     const y = topPad + i * (barHeight + gap);
@@ -117,19 +118,19 @@ async function buildSVG(topLangs, totalBytes) {
     const slug = ICONS[lang] || lang.toLowerCase().replace(/[^a-z0-9]/g, "");
     const iconDataUri = await fetchIconDataUri(slug);
     const iconMarkup = iconDataUri
-      ? `<image href="${iconDataUri}" x="8" y="${y + barHeight / 2 - 12}" width="24" height="24" />`
+      ? `<image href="${iconDataUri}" x="8" y="${y + barHeight / 2 - 12}" width="24" height="24" preserveAspectRatio="xMidYMid meet" />`
       : "";
 
     return `
     ${iconMarkup}
     <text x="${chartLeft - 10}" y="${y + barHeight / 2}" text-anchor="end"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
-          font-size="14" font-weight="700" fill="#2E9EF7">${lang}</text>
+          font-size="14" font-weight="700" fill="${textColor}">${lang}</text>
     <rect x="${chartLeft}" y="${y}" width="${barWidth}" height="${barHeight}"
           rx="6" fill="${barColor}" />
     <text x="${chartLeft + barWidth + 8}" y="${y + barHeight / 2}"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
-          font-size="13" fill="#2E9EF7">${pct}%</text>`;
+          font-size="13" fill="${textColor}">${pct}%</text>`;
   });
 
   const rows = (await Promise.all(rowPromises)).join("\n");
