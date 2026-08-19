@@ -2,7 +2,7 @@
   <style>text { font-weight: 500; }</style>
   <rect width="100%" height="100%" fill="transparent" />
   
-    <image href="https://cdn.simpleicons.org/html5" x="8" y="22" width="24" height="24" />
+    
     <text x="140" y="34" text-anchor="end"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
           font-size="14" font-weight="700" fill="#2E9EF7">HTML</text>
@@ -12,7 +12,7 @@
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
           font-size="13" fill="#333">62.0%</text>
 
-    <image href="https://cdn.simpleicons.org/php" x="8" y="68" width="24" height="24" />
+    
     <text x="140" y="80" text-anchor="end"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
           font-size="14" font-weight="700" fill="#2E9EF7">PHP</text>
@@ -22,7 +22,7 @@
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
           font-size="13" fill="#333">17.0%</text>
 
-    <image href="https://cdn.simpleicons.org/css3" x="8" y="114" width="24" height="24" />
+    
     <text x="140" y="126" text-anchor="end"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
           font-size="14" font-weight="700" fill="#2E9EF7">CSS</text>
@@ -32,7 +32,7 @@
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
           font-size="13" fill="#333">11.5%</text>
 
-    <image href="https://cdn.simpleicons.org/javascript" x="8" y="160" width="24" height="24" />
+    
     <text x="140" y="172" text-anchor="end"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
           font-size="14" font-weight="700" fill="#2E9EF7">JavaScript</text>
