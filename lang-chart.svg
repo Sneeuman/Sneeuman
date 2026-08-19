@@ -5,40 +5,40 @@
     
     <text x="140" y="34" text-anchor="end"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
-          font-size="14" font-weight="700" fill="#2E9EF7">HTML</text>
+          font-size="14" font-weight="700" fill="#2e9ef7">HTML</text>
     <rect x="150" y="20" width="260" height="28"
-          rx="6" fill="#4f8ef7" />
+          rx="6" fill="#58a2ba" />
     <text x="418" y="34"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
-          font-size="13" fill="#2E9EF7">61.8%</text>
+          font-size="13" fill="#2e9ef7">61.8%</text>
 
     
     <text x="140" y="80" text-anchor="end"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
-          font-size="14" font-weight="700" fill="#2E9EF7">PHP</text>
+          font-size="14" font-weight="700" fill="#2e9ef7">PHP</text>
     <rect x="150" y="66" width="71.39579648689154" height="28"
-          rx="6" fill="#4f8ef7" />
+          rx="6" fill="#58a2ba" />
     <text x="229.39579648689153" y="80"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
-          font-size="13" fill="#2E9EF7">17.0%</text>
+          font-size="13" fill="#2e9ef7">17.0%</text>
 
     
     <text x="140" y="126" text-anchor="end"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
-          font-size="14" font-weight="700" fill="#2E9EF7">CSS</text>
+          font-size="14" font-weight="700" fill="#2e9ef7">CSS</text>
     <rect x="150" y="112" width="48.19862629362086" height="28"
-          rx="6" fill="#4f8ef7" />
+          rx="6" fill="#58a2ba" />
     <text x="206.19862629362086" y="126"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
-          font-size="13" fill="#2E9EF7">11.4%</text>
+          font-size="13" fill="#2e9ef7">11.4%</text>
 
     
     <text x="140" y="172" text-anchor="end"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
-          font-size="14" font-weight="700" fill="#2E9EF7">JavaScript</text>
+          font-size="14" font-weight="700" fill="#2e9ef7">JavaScript</text>
     <rect x="150" y="158" width="41.39146370048371" height="28"
-          rx="6" fill="#4f8ef7" />
+          rx="6" fill="#58a2ba" />
     <text x="199.3914637004837" y="172"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
-          font-size="13" fill="#2E9EF7">9.8%</text>
+          font-size="13" fill="#2e9ef7">9.8%</text>
 </svg>
