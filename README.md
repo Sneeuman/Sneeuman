@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Almero Badenhorst 👋</h1>
+<h1 align="center">Hey, I'm Almero 👋</h1>
 <h3 align="center">also known as Sneeuman</h3>
 
 <p align="center">
