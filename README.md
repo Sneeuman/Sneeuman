@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Almero 👋</h1>
+<h1 align="center">Hey, I'm Almero Badenhorst 👋</h1>
 <h3 align="center">also known as Sneeuman</h3>
 
 <p align="center">
@@ -43,11 +43,6 @@ A C2C (consumer-to-consumer) e-commerce platform built for a university delivera
   <img src="https://skillicons.dev/icons?i=python,java,kotlin,html,css,js,php,mysql,cpp,cs" />
 </p>
 
----
-📈 Contribution Graph (3D)
-<p align="center"> <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" /> </p>
----
-
 ### 🌱 Currently
 
 Growing my skills across Android development, web dev/e-commerce systems, and Python, while keeping an eye on how AI tools fit into modern software engineering workflows.
@@ -63,3 +58,8 @@ Growing my skills across Android development, web dev/e-commerce systems, and Py
 </p>
 
 <p align="center"><i>Thanks for stopping by — feel free to explore my repos!</i></p>
+
+---
+📈 Contribution Graph (3D)
+<p align="center"> <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" /> </p>
+---
