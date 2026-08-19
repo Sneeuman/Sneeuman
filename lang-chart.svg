@@ -10,7 +10,7 @@
           rx="6" fill="#4f8ef7" />
     <text x="418" y="34"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
-          font-size="13" fill="#333">62.0%</text>
+          font-size="13" fill="#2E9EF7">61.8%</text>
 
     
     <text x="140" y="80" text-anchor="end"
@@ -20,7 +20,7 @@
           rx="6" fill="#4f8ef7" />
     <text x="229.39579648689153" y="80"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
-          font-size="13" fill="#333">17.0%</text>
+          font-size="13" fill="#2E9EF7">17.0%</text>
 
     
     <text x="140" y="126" text-anchor="end"
@@ -30,15 +30,15 @@
           rx="6" fill="#4f8ef7" />
     <text x="206.19862629362086" y="126"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
-          font-size="13" fill="#333">11.5%</text>
+          font-size="13" fill="#2E9EF7">11.4%</text>
 
     
     <text x="140" y="172" text-anchor="end"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
           font-size="14" font-weight="700" fill="#2E9EF7">JavaScript</text>
-    <rect x="150" y="158" width="39.56871017920689" height="28"
+    <rect x="150" y="158" width="41.39146370048371" height="28"
           rx="6" fill="#4f8ef7" />
-    <text x="197.5687101792069" y="172"
+    <text x="199.3914637004837" y="172"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
-          font-size="13" fill="#333">9.4%</text>
+          font-size="13" fill="#2E9EF7">9.8%</text>
 </svg>
