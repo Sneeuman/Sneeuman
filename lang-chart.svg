@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="206" viewBox="0 0 480 206">
+  <style>text { font-weight: 500; }</style>
+  <rect width="100%" height="100%" fill="transparent" />
+  
+    <image href="https://cdn.simpleicons.org/html5" x="8" y="22" width="24" height="24" />
+    <text x="140" y="34" text-anchor="end"
+          dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
+          font-size="14" fill="#333">HTML</text>
+    <rect x="150" y="20" width="260" height="28"
+          rx="6" fill="#4f8ef7" />
+    <text x="418" y="34"
+          dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
+          font-size="13" fill="#333">63.3%</text>
+
+    <image href="https://cdn.simpleicons.org/php" x="8" y="68" width="24" height="24" />
+    <text x="140" y="80" text-anchor="end"
+          dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
+          font-size="14" fill="#333">PHP</text>
+    <rect x="150" y="66" width="71.39579648689154" height="28"
+          rx="6" fill="#4f8ef7" />
+    <text x="229.39579648689153" y="80"
+          dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
+          font-size="13" fill="#333">17.4%</text>
+
+    <image href="https://cdn.simpleicons.org/css3" x="8" y="114" width="24" height="24" />
+    <text x="140" y="126" text-anchor="end"
+          dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
+          font-size="14" fill="#333">CSS</text>
+    <rect x="150" y="112" width="48.19862629362086" height="28"
+          rx="6" fill="#4f8ef7" />
+    <text x="206.19862629362086" y="126"
+          dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
+          font-size="13" fill="#333">11.7%</text>
+
+    <image href="https://cdn.simpleicons.org/javascript" x="8" y="160" width="24" height="24" />
+    <text x="140" y="172" text-anchor="end"
+          dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
+          font-size="14" fill="#333">JavaScript</text>
+    <rect x="150" y="158" width="31.164098958000384" height="28"
+          rx="6" fill="#4f8ef7" />
+    <text x="189.16409895800038" y="172"
+          dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
+          font-size="13" fill="#333">7.6%</text>
+</svg>
