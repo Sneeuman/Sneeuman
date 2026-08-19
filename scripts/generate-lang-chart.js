@@ -129,7 +129,7 @@ async function buildSVG(topLangs, totalBytes) {
           rx="6" fill="${barColor}" />
     <text x="${chartLeft + barWidth + 8}" y="${y + barHeight / 2}"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
-          font-size="13" fill="#333">${pct}%</text>`;
+          font-size="13" fill="#2E9EF7">${pct}%</text>`;
   });
 
   const rows = (await Promise.all(rowPromises)).join("\n");
