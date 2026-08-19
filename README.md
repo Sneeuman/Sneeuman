@@ -30,6 +30,11 @@ A C2C (consumer-to-consumer) e-commerce platform built for a university delivera
 - Built from scratch with HTML, CSS, JavaScript, PHP, and MySQL
 - Includes design diagrams, responsive prototypes, and full documentation
 - ⚠️ **This is an academic mock project only.** It uses the name "CashCrusaders" because the assignment required picking a real company to theme the project around — it is **not affiliated with, endorsed by, or built for** the real Cash Crusaders. The site is not hosted live, no real payments are possible, and this is made clear on the site itself.
+<p align="left">
+  <a href="https://sneeuman.github.io/CashCrusadersC2C.github.io/" target="_blank">
+    <img src="https://businesstech.co.za/news/wp-content/uploads/2018/02/Cash-Crusaders-logo-2.jpg" />
+  </a>
+</p>
 
 
 ### 🛠️ Tech Stack
