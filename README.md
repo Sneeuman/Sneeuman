@@ -9,7 +9,7 @@
 
 ### 🧑‍🎓 About Me
 
-I'm a Software Engineering student based in Bloemfontein, South Africa, currently studying:
+I'm a Software Engineering student based in Bloemfontein, South Africa, currently studying and have studied:
 
 - 🤖 **4IR Technologies** (ITTNA3)
 - 🌐 **Web Development & E-Commerce** (ITECA3-12)
@@ -41,15 +41,6 @@ A C2C (consumer-to-consumer) e-commerce platform built for a university delivera
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,kotlin,html,css,js,php,mysql,cpp,cs" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Schneeman-Almero&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schneeman-Almero&layout=compact&hide_border=true" />
 </p>
 
 ---
