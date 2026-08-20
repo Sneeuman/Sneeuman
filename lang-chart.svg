@@ -10,7 +10,7 @@
           rx="6" fill="#58a2ba" />
     <text x="418" y="34"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
-          font-size="13" fill="#2e9ef7">61.8%</text>
+          font-size="13" fill="#2e9ef7">61.7%</text>
 
     
     <text x="140" y="80" text-anchor="end"
@@ -36,9 +36,9 @@
     <text x="140" y="172" text-anchor="end"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
           font-size="14" font-weight="700" fill="#2e9ef7">JavaScript</text>
-    <rect x="150" y="158" width="41.39146370048371" height="28"
+    <rect x="150" y="158" width="41.53920461406238" height="28"
           rx="6" fill="#58a2ba" />
-    <text x="199.3914637004837" y="172"
+    <text x="199.53920461406238" y="172"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
-          font-size="13" fill="#2e9ef7">9.8%</text>
+          font-size="13" fill="#2e9ef7">9.9%</text>
 </svg>
