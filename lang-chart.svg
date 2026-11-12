@@ -10,45 +10,45 @@
           rx="6" fill="#58a2ba" />
     <text x="418" y="34"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
-          font-size="13" fill="#2e9ef7">58.5%</text>
+          font-size="13" fill="#2e9ef7">51.5%</text>
 
     
     <text x="140" y="80" text-anchor="end"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
           font-size="14" font-weight="700" fill="#2e9ef7">JavaScript</text>
-    <rect x="150" y="66" width="74.64382844461329" height="28"
+    <rect x="150" y="66" width="127.9313393251805" height="28"
           rx="6" fill="#58a2ba" />
-    <text x="232.6438284446133" y="80"
+    <text x="285.9313393251805" y="80"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
-          font-size="13" fill="#2e9ef7">16.8%</text>
+          font-size="13" fill="#2e9ef7">25.3%</text>
 
     
     <text x="140" y="126" text-anchor="end"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
           font-size="14" font-weight="700" fill="#2e9ef7">CSS</text>
-    <rect x="150" y="112" width="57.46364154431353" height="28"
+    <rect x="150" y="112" width="68.15087667599823" height="28"
           rx="6" fill="#58a2ba" />
-    <text x="215.46364154431353" y="126"
+    <text x="226.15087667599823" y="126"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
-          font-size="13" fill="#2e9ef7">12.9%</text>
+          font-size="13" fill="#2e9ef7">13.5%</text>
 
     
     <text x="140" y="172" text-anchor="end"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
           font-size="14" font-weight="700" fill="#2e9ef7">PHP</text>
-    <rect x="150" y="158" width="46.57032853495925" height="28"
+    <rect x="150" y="158" width="43.55905320725609" height="28"
           rx="6" fill="#58a2ba" />
-    <text x="204.57032853495926" y="172"
+    <text x="201.55905320725608" y="172"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
-          font-size="13" fill="#2e9ef7">10.5%</text>
+          font-size="13" fill="#2e9ef7">8.6%</text>
 
     
     <text x="140" y="218" text-anchor="end"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
           font-size="14" font-weight="700" fill="#2e9ef7">Python</text>
-    <rect x="150" y="204" width="5.799005731176767" height="28"
+    <rect x="150" y="204" width="5.4240373031487525" height="28"
           rx="6" fill="#58a2ba" />
-    <text x="163.79900573117678" y="218"
+    <text x="163.42403730314876" y="218"
           dominant-baseline="middle" font-family="Segoe UI, Helvetica, sans-serif"
-          font-size="13" fill="#2e9ef7">1.3%</text>
+          font-size="13" fill="#2e9ef7">1.1%</text>
 </svg>
